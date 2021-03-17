@@ -1,9 +1,11 @@
 # Movie Rating Viewer
-### Platform
-Android Studio, Recommend version > Android 6.0
-### Description
-A movie rating application that user can view the description of movies by Kotlin
-### Api
-the Movie DB
-### Run
-Android Studio Virtual Machine
+### About
+This mobile application is built using Kotlin + Android studio, its purpose is to provide users the movie rating and descriptions using TMDb(The Movie Database) in users' preferred order.
+### Getting Started
+#### Prerequisities
+Android Studio(Recommend version > Android 6.0)
+### Built using
+- [the Movie DB](https://www.themoviedb.org/)
+- Kotlin
+### Author
+[Wang Yang](https://github.com/NorthstarWang)
